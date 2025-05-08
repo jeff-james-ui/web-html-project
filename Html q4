@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Kattappana - A Beautiful Town</title>
+</head>
+<body><center>
+    <header>
+        <h1>Welcome to Kattappana</h1>
+        <p><i>The Heart of Idukki District, Kerala</i></p>
+    </header></center>
+    <center><nav>
+        <a href="#about">About Kattappana</a> |
+        <a href="#attractions">Attractions</a> |
+          <a href="#contact">Contact</a>
+    </nav></center>
+
+    <hr>
+    <section id="about">
+        <center><h2>About Kattappana</h2></center>
+        <p>
+            Kattappana is a picturesque town located in the Idukki district of Kerala, India. Known for its lush greenery, rolling hills, and pleasant climate, Kattappana is a popular destination for nature lovers and adventure enthusiasts. The town is surrounded by tea plantations, spice gardens, and waterfalls, making it a perfect getaway for those seeking tranquility.
+        </p>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Distant_view_of_Kattappana_town.jpg" alt="Kattappana Landscape" width="800" height="400">
+    </section>
+
+    <hr>
+
+    <!-- Attractions Section -->
+    <section id="attractions">
+        <h2>Top Attractions in Kattappana</h2>
+        <ul>
+            <li><strong>Ramakkalmedu:</strong> A scenic hilltop offering breathtaking views of the Western Ghats.</li>
+            <li><strong>Idukki Arch Dam:</strong> One of the largest arch dams in Asia, located near Kattappana.</li>
+            <li><strong>Tea Plantations:</strong> Explore the vast tea estates and learn about tea production.</li>
+            <li><strong>Spice Gardens:</strong> Visit local spice gardens to see the cultivation of cardamom, pepper, and more.</li>
+            <li><strong>Waterfalls:</strong> Discover hidden waterfalls like Keezharathur and Thommankuthu.</li>
+<li> And much more....<a href="https://www.google.com/search?q=top+sights+in+kattappana&sca_esv=5d466d0b992978df&rlz=1C1VDKB_enIN1128IN1128&sxsrf=AHTn8zpjZxrAzxdJ2XBYp7Nyl3GFDrulUw%3A1740585000649&ei=KDi_Z5mxJ9SRseMPhObGiA8&oq=top+sights+in+kattapppana&gs_lp=Egxnd3Mtd2l6LXNlcnAiGXRvcCBzaWdodHMgaW4ga2F0dGFwcHBhbmEqAggAMgcQIRigARgKMgcQIRigARgKMgUQIRifBTIFECEYnwUyBRAhGJ8FMgUQIRifBTIFECEYnwUyBRAhGJ8FMgUQIRifBTIFECEYnwVIrUZQAFjPOHADeAGQAQCYAf8BoAGhKKoBBzAuMTUuMTG4AQHIAQD4AQGYAh2gApUpwgIKECMYgAQYJxiKBcICBBAjGCfCAgsQABiABBiRAhiKBcICCxAuGIAEGJECGIoFwgIIEAAYgAQYsQPCAgoQABiABBhDGIoFwgIFEAAYgATCAgsQABiABBixAxiDAcICChAuGIAEGEMYigXCAhQQLhiABBiRAhjHARiKBRiOBRivAcICCxAAGIAEGJIDGIoFwgINEAAYgAQYQxjJAxiKBcICDRAuGIAEGLEDGEMYigXCAg0QABiABBixAxgUGIcCwgITEC4YgAQYQxjHARiKBRiOBRivAcICCBAuGIAEGLEDwgIFEC4YgATCAgcQABiABBgNwgIKEAAYgAQYFBiHAsICBhAAGBYYHsICCxAAGIAEGIYDGIoFwgIIEAAYgAQYogTCAgYQABgNGB7CAgUQIRigAZgDAJIHBzMuMTUuMTGgB5a_AQ&sclient=gws-wiz-serp"><u>More visits</u></a></li>
+        </ul>
+        <figcaption ><b><i>Ramakalmedu</i></b><img src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/55/5b/ba/ramakkalmedu.jpg?w=900&h=500&s=1" alt="Ramakkalmedu View" width="800" height="400"></figcaption>
+<figcaption ><b><i>Idukki Arch Dam</i></b><img src="https://media1.thrillophilia.com/filestore/197rvke8l9ionr0fbb58m2oxqt9z_Presa_de_El_Atazar_-_01.jpg?w=400&dpr=2" alt="Idukki Dam" width="800" height="400"></figcaption>
+<figcaption ><b><i>Tea Plantations</i></b><img src="https://teatrunk.in/cdn/shop/articles/the-beauty-of-indian-tea-gardens.webp?v=1675043167" alt="Tea Plantations" width="800" height="400"></figcaption>
+<figcaption ><b><i>Spice Garden</i></b><img src="https://www.emperorakbar.com/cdn/shop/articles/Image_2_1200x.jpg?v=1727443821" alt="Spice Garden" width="800" height="400"></figcaption>
+<figcaption ><b><i>Waterfalls</i></b><img src="https://cdn.tripuntold.com/media/photos/location/2020/12/23/c45b8e0a-2fc1-4b02-8ec7-c98aab7c79cc.jpg" alt="Waterfalls" width="800" height="400"></figcaption>
+
+
+    </section>
+       <hr>
+    <section id="contact">
+        <h2>Contact Us</h2>
+        <p>
+            For more information about Kattappana, feel free to reach out to us:
+        </p>
+        <ul>
+            <li><strong>Email:</strong> <a href="mailto:info@kattappana.com">info@kattappana.com</a></li>
+            <li><strong>Phone:</strong> <a href="tel:+911234567890">+91 123 456 7890</a></li>
+            <li><strong>Address:</strong> Kattappana Town, Idukki District, Kerala, India</li>
+        </ul>
+    </section>
+
+    <hr>
+
+    <!-- Footer -->
+    <footer>
+        <center><p>&copy; 2023 Kattappana Tourism. All rights reserved.</p></center>
+    </footer>
+
+</body>
+</html>
